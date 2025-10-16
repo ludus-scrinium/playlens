@@ -8,7 +8,7 @@
   <img src="./docs/heropfp.png" alt="playlens" width="120">
 </p>
 
-# playlens — prove ux gets better
+# playlens
 
 ## what this is
 a tiny harness to test one screen or flow, show the change, and re-test. before → fix → after.
