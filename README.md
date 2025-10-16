@@ -11,12 +11,12 @@
 # playlens
 
 ## what this is
-a tiny harness to test one screen or flow, show the change, and re-test. before → fix → after.
+a control to test one screen and user behavior, show the change, and re-test. before → fix → after.
 
 ## why it matters
 - replaces opinions with measured data
 - focuses on one change at a time
-- creates shareable “before/after” clips
+- creates shareable, timed “before/after” clips
 
 ## try it in 5 minutes
 1) open **/docs/SETUP.md**  
