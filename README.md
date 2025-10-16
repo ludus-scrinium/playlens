@@ -14,7 +14,7 @@
 a tiny harness to test one screen or flow, show the change, and re-test. before → fix → after.
 
 ## why it matters
-- replaces opinions with quick evidence
+- replaces opinions with measured data
 - focuses on one change at a time
 - creates shareable “before/after” clips
 
