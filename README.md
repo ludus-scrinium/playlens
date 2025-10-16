@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="./docs/heropfp.png" alt="playlens" width="120">
 </p>
 
@@ -49,3 +49,4 @@ a tiny harness to test one screen or flow, show the change, and re-test. before 
     <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
 </p>
+
