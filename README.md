@@ -45,6 +45,10 @@ a tiny harness to test one screen or flow, show the change, and re-test. before 
 ---
 
 <p align="center">
+  <img src="./docs/heropfp.png" alt="playlens" width="96">
+</p>
+
+<p align="center">
   <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
     <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
   </a>
