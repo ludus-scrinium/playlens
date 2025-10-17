@@ -1,10 +1,8 @@
 ﻿<!-- LS BADGES START -->
 <p align="left">
   <a href="https://github.com/ludus-scrinium/playlens/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/ludus-scrinium/playlens"></a>
-  <a href="https://github.com/ludus-scrinium/playlens"><img alt="Repo Stars" src="https://img.shields.io/github/stars/ludus-scrinium/playlens"></a>
   <a href="https://github.com/ludus-scrinium/playlens/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/ludus-scrinium/playlens"></a>
   <a href="https://github.com/ludus-scrinium/playlens/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/ludus-scrinium/playlens"></a>
-  <a href="https://github.com/ludus-scrinium/playlens/pulls"><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/ludus-scrinium/playlens"></a>
 </p>
 <!-- LS BADGES END -->
 <p align="right">
